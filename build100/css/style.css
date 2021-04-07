@@ -1,0 +1,108 @@
+.btn-outline-secondary {
+    color: #555;
+    border-color: #aaa;
+}
+.btn-outline-secondary:hover {
+    color: #212529;
+    background-color: #e9ecef;
+    border-color: #aaa;
+}
+.btn-outline-secondary.focus,
+.btn-outline-secondary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(233, 236, 239, 0.5);
+}
+.btn-outline-secondary.disabled,
+.btn-outline-secondary:disabled {
+    color: #555;
+    background-color: transparent;
+}
+
+.cgray {
+    color: gray;
+}
+
+.clgray {
+    color: lightgray;
+}
+
+.cred {
+    color: red;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.m0 {
+    margin: 0;
+}
+
+.m11 {
+    margin: 11px;
+}
+
+.mb11 {
+    margin-bottom: 11px;
+}
+
+.ml11 {
+    margin-left: 11px;
+}
+
+.mlr11 {
+    margin-left: 11px;
+    margin-right: 11px;
+}
+
+.modal {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal .close {
+    color: red;
+}
+
+.mr11 {
+    margin-right: 11px;
+}
+
+.mr3 {
+    margin-right: 3px;
+}
+
+.mt11 {
+    margin-top: 11px;
+}
+
+.mtb11 {
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+
+.noty_layout .noty_close_button {
+    display: none;
+}
+
+.p0 {
+    padding: 0;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.table caption.caption-top {
+    caption-side: top;
+}
+
+.w111 {
+    width: 111px;
+}
+
+.w222 {
+    width: 222px;
+}
+
+.wa {
+    width: auto;
+}
